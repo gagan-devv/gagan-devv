@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Gagan Ahlawat 👋</h1>
+<h1 align="center">Hey, I'm Gagan Ahlawat</h1>
 
 <p align="center">
   <b>Backend · ML · Systems</b> &nbsp;|&nbsp; B.Tech IT @ ABV-IIITM Gwalior &nbsp;|&nbsp; Building things I fully understand
