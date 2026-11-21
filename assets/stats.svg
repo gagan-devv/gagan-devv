@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="134" viewBox="0 0 900 134">
+  <rect width="900" height="134" fill="none"/>
+  
+  <g>
+    <rect x="12" y="12" width="210" height="110" rx="12" fill="#0a0e16" stroke="#22d3ee" stroke-opacity="0.85" stroke-width="1.5"/>
+    <rect x="12" y="12" width="210" height="3" rx="1.5" fill="#22d3ee" opacity="0.9"/>
+    <text x="117.0" y="62" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif"
+          font-size="34" font-weight="800" fill="#22d3ee">1,103</text>
+    <text x="117.0" y="90" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif"
+          font-size="12.5" fill="#c2d0e5">contributions in 2026</text>
+  </g>
+  <g>
+    <rect x="238" y="12" width="210" height="110" rx="12" fill="#0a0e16" stroke="#ff4fa3" stroke-opacity="0.85" stroke-width="1.5"/>
+    <rect x="238" y="12" width="210" height="3" rx="1.5" fill="#ff4fa3" opacity="0.9"/>
+    <text x="343.0" y="62" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif"
+          font-size="34" font-weight="800" fill="#ff4fa3">198</text>
+    <text x="343.0" y="90" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif"
+          font-size="12.5" fill="#c2d0e5">active days this year</text>
+  </g>
+  <g>
+    <rect x="464" y="12" width="210" height="110" rx="12" fill="#0a0e16" stroke="#a3e635" stroke-opacity="0.85" stroke-width="1.5"/>
+    <rect x="464" y="12" width="210" height="3" rx="1.5" fill="#a3e635" opacity="0.9"/>
+    <text x="569.0" y="62" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif"
+          font-size="34" font-weight="800" fill="#a3e635">13 wk</text>
+    <text x="569.0" y="90" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif"
+          font-size="12.5" fill="#c2d0e5">current commit streak</text>
+  </g>
+  <g>
+    <rect x="690" y="12" width="210" height="110" rx="12" fill="#0a0e16" stroke="#fbbf24" stroke-opacity="0.85" stroke-width="1.5"/>
+    <rect x="690" y="12" width="210" height="3" rx="1.5" fill="#fbbf24" opacity="0.9"/>
+    <text x="795.0" y="62" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif"
+          font-size="34" font-weight="800" fill="#fbbf24">12</text>
+    <text x="795.0" y="90" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif"
+          font-size="12.5" fill="#c2d0e5">projects built &amp; shipped</text>
+  </g>
+</svg>
