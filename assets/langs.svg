@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="92" viewBox="0 0 900 92">
+  <rect width="900" height="92" rx="10" fill="#0a0e16"/>
+  <rect x="20" y="18" width="860" height="20" rx="10" fill="#05070d"/>
+  <g><rect x="20" y="18" width="458.4" height="20" fill="#3178c6"/><rect x="478.4" y="18" width="220.2" height="20" fill="#3572A5"/><rect x="698.5999999999999" y="18" width="123.8" height="20" fill="#f1e05a"/><rect x="822.3999999999999" y="18" width="53.3" height="20" fill="#00ADD8"/><rect x="875.6999999999998" y="18" width="4.3" height="20" fill="#f34b7d"/></g>
+  <rect x="20" y="18" width="860" height="20" rx="10" fill="none" stroke="#1c2536" stroke-width="1"/>
+  
+    <g>
+      <circle cx="26" cy="66" r="6" fill="#3178c6"/>
+      <text x="40" y="71" font-family="'Segoe UI',system-ui,sans-serif" font-size="14" fill="#dbe6f4">TypeScript 53.3%</text>
+    </g>
+    <g>
+      <circle cx="172.2" cy="66" r="6" fill="#3572A5"/>
+      <text x="186.2" y="71" font-family="'Segoe UI',system-ui,sans-serif" font-size="14" fill="#dbe6f4">Python 25.6%</text>
+    </g>
+    <g>
+      <circle cx="289.6" cy="66" r="6" fill="#f1e05a"/>
+      <text x="303.6" y="71" font-family="'Segoe UI',system-ui,sans-serif" font-size="14" fill="#dbe6f4">JavaScript 14.4%</text>
+    </g>
+    <g>
+      <circle cx="435.8" cy="66" r="6" fill="#00ADD8"/>
+      <text x="449.8" y="71" font-family="'Segoe UI',system-ui,sans-serif" font-size="14" fill="#dbe6f4">Go 6.2%</text>
+    </g>
+    <g>
+      <circle cx="517.2" cy="66" r="6" fill="#f34b7d"/>
+      <text x="531.2" y="71" font-family="'Segoe UI',system-ui,sans-serif" font-size="14" fill="#dbe6f4">C++ 0.5%</text>
+    </g>
+</svg>
