@@ -5,7 +5,7 @@
     <rect x="12" y="12" width="210" height="110" rx="12" fill="#0a0e16" stroke="#22d3ee" stroke-opacity="0.85" stroke-width="1.5"/>
     <rect x="12" y="12" width="210" height="3" rx="1.5" fill="#22d3ee" opacity="0.9"/>
     <text x="117.0" y="62" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif"
-          font-size="34" font-weight="800" fill="#22d3ee">1,107</text>
+          font-size="34" font-weight="800" fill="#22d3ee">1,131</text>
     <text x="117.0" y="90" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif"
           font-size="12.5" fill="#c2d0e5">contributions in 2026</text>
   </g>
@@ -13,7 +13,7 @@
     <rect x="238" y="12" width="210" height="110" rx="12" fill="#0a0e16" stroke="#ff4fa3" stroke-opacity="0.85" stroke-width="1.5"/>
     <rect x="238" y="12" width="210" height="3" rx="1.5" fill="#ff4fa3" opacity="0.9"/>
     <text x="343.0" y="62" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif"
-          font-size="34" font-weight="800" fill="#ff4fa3">197</text>
+          font-size="34" font-weight="800" fill="#ff4fa3">199</text>
     <text x="343.0" y="90" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif"
           font-size="12.5" fill="#c2d0e5">active days this year</text>
   </g>
@@ -21,7 +21,7 @@
     <rect x="464" y="12" width="210" height="110" rx="12" fill="#0a0e16" stroke="#a3e635" stroke-opacity="0.85" stroke-width="1.5"/>
     <rect x="464" y="12" width="210" height="3" rx="1.5" fill="#a3e635" opacity="0.9"/>
     <text x="569.0" y="62" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif"
-          font-size="34" font-weight="800" fill="#a3e635">0 wk</text>
+          font-size="34" font-weight="800" fill="#a3e635">29 wk</text>
     <text x="569.0" y="90" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif"
           font-size="12.5" fill="#c2d0e5">current commit streak</text>
   </g>
