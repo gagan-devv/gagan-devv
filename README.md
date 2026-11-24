@@ -14,6 +14,12 @@ tooling and realtime collaboration systems. Open-source contributor (krkn-ai, Gi
   <img src="assets/langs.svg" width="100%" alt="Languages"/>
 </p>
 
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My coding koi" />
+  <br />
+  <sub>A little koi, shaped by my public GitHub activity.</sub>
+</p>
+
 ### Featured builds
 
 <table>
